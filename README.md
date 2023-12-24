@@ -7,3 +7,7 @@
 
 > Порой, лучше поздно осознать, что был не прав,
 > чем жить и думать, что в твоих словах была истина.
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=kostyabet&show_icons=true&theme=gruvbox)
