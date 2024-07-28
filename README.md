@@ -15,4 +15,6 @@
 
 ## 📊 Stats
 
+[![Leetcode stats](https://leetcard.jacoblin.cool/kostyabet?animation=true&ext=activity)](https://leetcode.com/u/kostyabet/)
+---
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kostyabet&count_private=true&&hide=issues,contribs&show_icons=true&bg_color=100f14&hide_border=true&title_color=dedede&text_color=5465e8&icon_color=db7979)](https://github.com/anuraghazra/github-readme-stats)
