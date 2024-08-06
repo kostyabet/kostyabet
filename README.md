@@ -5,6 +5,7 @@
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=c#&logoColor=ddea39)
 ![.Net](https://img.shields.io/badge/-.Net-090909?style=for-the-badge&logo=dotnet&logoColor=47C5FB)
 ![NuGet](https://img.shields.io/badge/-NuGet-090909?style=for-the-badge&logo=nuget&logoColor=00648B)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
 
 ## 📲️ Socials
