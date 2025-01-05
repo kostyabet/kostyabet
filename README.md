@@ -4,6 +4,7 @@
 
 ## 🛠️ Languages and Tools
 
+![AssemblyScript](https://img.shields.io/badge/asm-090909?style=for-the-badge&logo=intel&logoColor=white)
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)
