@@ -10,6 +10,7 @@
 ![Unix](https://img.shields.io/badge/-unix-090909?style=for-the-badge&logo=ubuntu&logoColor=orange)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=sky)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=2496ED)
+![TypeScript](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=typescript&logoColor=sky)
 
 ## 📲️ Socials
 
