@@ -4,7 +4,7 @@
 
 ## 🛠️ Languages and Tools
 
-![TypeScript](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=typescript&logoColor=sky)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=sky)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=blue)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=red)
