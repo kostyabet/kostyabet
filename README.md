@@ -3,8 +3,6 @@
 - CEO & CTO at [@vazonhub](https://github.com/vazonhub)
 - Design and layout sites for olympiads in BSUIR
 
-<br/>
-
 ## 🛠️ Languages and Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript&logoColor=sky)
