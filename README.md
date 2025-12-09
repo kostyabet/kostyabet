@@ -1,6 +1,6 @@
 # 👨‍💻 Student of BSUIR (Faculty of Computer Systems and Networks)
 - I'm Fullstack developer
-- CEO & CTO at [@vazonhub](https://github.com/vazonhub)
+- CEO & Project Manager at [@vazonhub](https://github.com/vazonhub)
 - Design and layout sites for olympiads in BSUIR
 
 ## 🛠️ Languages and Tools
